@@ -1,0 +1,63 @@
+.section-advantages__column-content {
+    display: flex;
+    align-items: center;
+}
+
+.section-advantages__embeddeImge {
+    width: 160px;
+    height: 142px;
+    margin-right: 30px;
+    margin-top: 64px;
+    background-image: url(..//img/adva.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.section-cuorses-content_one {
+    display: none;
+}
+
+.section-cuorses-content_two {
+    display: none;
+}
+
+.section-advantages__heading {
+    width: 385px;
+    height: 74px;
+    font-weight: bold;
+    font-size: var(--size-heading-desct-);
+    line-height: 100%;
+    color: #2E2B44;
+    margin-top: 80px;
+    margin-right: 0;
+    margin-bottom: 30px;
+    margin-left: 0;
+}
+
+.section-advantages__description {
+    width: 585px;
+    font-weight: normal;
+    font-size: var(--size-desct-);
+    line-height: 150%;
+    color: var(--descript-col-);
+}
+
+.section-advantages__column-one {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.section-advantages__column-one-content {
+    margin-right: 30px;
+}
+
+.section-advantages__description-one {
+    width: 240px;
+    font-weight: bold;
+    font-size: var(--size-desct-);
+    line-height: 120%;
+    color: var(--descript-col-);
+    margin-top: 10px;
+    margin-bottom: 15px;
+}

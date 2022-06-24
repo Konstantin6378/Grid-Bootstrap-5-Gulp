@@ -1,0 +1,19 @@
+@media (max-width: 576px) {
+    .header-container-nav {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .header-logo {
+        flex-direction: column;
+    }
+
+    .header-list__item-link {
+        font-size: 17px;
+        line-height: 21px;
+    }
+
+    .header-list {
+        max-width: 100%;
+    }
+}

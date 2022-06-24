@@ -1,0 +1,102 @@
+.section-cuorses-heading {
+    font-weight: bold;
+    font-size: var(--size-heading-desct-);
+    line-height: 100%;
+    color: #212133;
+    margin-top: 80px;
+}
+
+.section-courses-content__container {
+    width: 539px;
+    margin-bottom: 60px;
+}
+
+.section-cuorses-content-one {
+    display: flex;
+    justify-content: flex-end;
+    width: 540px;
+    height: 180px;
+    background-size: 100%;
+    background-image: url(..//img/course1.png);
+    background-repeat: no-repeat;
+}
+
+.section-cuorses-content-two {
+    display: flex;
+    justify-content: flex-end;
+    width: 540px;
+    height: 180px;
+    background-size: 100%;
+    background-image: url(..//img/course2.png);
+    background-repeat: no-repeat;
+}
+
+.section-cuorses-content-three {
+    display: flex;
+    justify-content: flex-end;
+    width: 540px;
+    height: 180px;
+    background-size: 100%;
+    background-image: url(..//img/course3.png);
+    background-repeat: no-repeat;
+}
+
+.section-cuorses-content-four {
+    display: flex;
+    justify-content: flex-end;
+    width: 540px;
+    height: 180px;
+    background-size: 100%;
+    background-image: url(..//img/course4.png);
+    background-repeat: no-repeat;
+}
+
+.section-cuorses-content__watch {
+    display: flex;
+    align-items: center;
+    height: 25px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: normal;
+    font-size: var(--size-desct-);
+    line-height: 19px;
+    color: var(--main-colr-);
+}
+
+.section-cuorses-watch {
+    margin-right: 10px;
+}
+
+.section-cuorses-content__container-one {
+    background: #EDF0F9;
+    border-radius: 0px 0px 20px 20px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.section-cuorses-content__heading {
+    font-weight: bold;
+    font-size: var(--size-sub-desct-);
+    line-height: 150%;
+    color: #212133;
+}
+
+.section-cuorses-content__description {
+    width: 479.76px;
+    min-height: 113px;
+    font-weight: normal;
+    font-size: var(--size-desct-);
+    line-height: 150%;
+    color: var(--descript-col-);
+}
+
+.section-cuorses-content__button {
+    width: 202px;
+    height: 60px;
+    padding: 20.5px 59px;
+    background: #3F2AFF;
+    border-radius: 20px;
+    color: var(--main-colr-);
+    border: 0;
+    margin-bottom: 30px;
+}

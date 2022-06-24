@@ -1,0 +1,35 @@
+.footer-container-row-one {
+    width: 100%;
+    background: #2E2B44;
+    margin: 0;
+}
+
+.footer-container-row-two {
+    width: 100%;
+    margin-left: 0;
+    padding: 0;
+}
+
+.footer-container {
+    overflow-x: hidden;
+    padding: 0;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+
+.footer-content__social {
+    margin-left: 34px;
+}
+
+.foot-foot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 18px;
+    background-color: var(--main-bg-);
+}

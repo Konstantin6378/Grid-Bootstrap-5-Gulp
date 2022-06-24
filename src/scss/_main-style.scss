@@ -1,0 +1,19 @@
+:root {
+    --main-bg-: #FFF;
+    --main-colr-: #FFF;
+    --descript-col-:#666;
+    --footer-bg-: #FFF;
+    --size-desct-: 16px;
+    --size-sub-desct-: 18px;
+    --size-heading-desct-: 39px;
+    --size-heading-small-: 20px;
+    --size-btn-desct-: 22px;
+}
+
+@import "_header";
+@import "_spriteStyle";
+@import "_hero";
+@import "_advantages";
+@import "_teachers";
+@import "_courses";
+@import "_footer";

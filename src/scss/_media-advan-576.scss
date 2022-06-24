@@ -1,0 +1,36 @@
+@media (max-width: 576px) {
+    .section-advantages-row {
+        height: auto;
+    }
+
+    .section-advantages__column-content {
+        display: block;
+        align-items: flex-start;
+    }
+
+    .section-advantages__embeddeImge {
+        width: 150px;
+        height: 134px;
+        margin-right: 29px;
+        margin-top: 64px;
+        background-image: url(..//img/adva-576.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    .section-advantages__heading {
+        width: 330px;
+        height: 114px
+    }
+
+    .section-advantages__description {
+        width: 330px;
+        height: 179px;
+    }
+
+    .section-advantages__description-one {
+        width: 150px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+}

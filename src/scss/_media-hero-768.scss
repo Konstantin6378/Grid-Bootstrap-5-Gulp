@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    /* Hero */
+
+    .section-hero__heading {
+        max-width: 385px;
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 100%;
+        color: var(--main-colr-);
+        margin-top: 130px;
+    }
+
+    .section-hero__description {
+        width: 345px;
+    }
+
+    .section-hero__pictor {
+        margin-top: 80px;
+        background-image: url(..//img/hero-img-768.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+}

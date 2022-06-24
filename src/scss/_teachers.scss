@@ -1,0 +1,60 @@
+.section-teachers-container {
+    background-color: #212133;
+    min-height: 576px;
+}
+
+.section-teachers-heading {
+    max-width: 455px;
+    min-height: 28px;
+    font-weight: bold;
+    font-size: var(--size-heading-desct-);
+    line-height: 100%;
+    color: var(--main-colr-);
+    margin-top: 80px;
+}
+
+.section-teachers__content-container-one {
+    width: 255px;
+    height: 180px;
+    background-image: url(..//img/teacher1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.section-teachers__content-container-two {
+    width: 255px;
+    height: 180px;
+    background-image: url(..//img/teacher2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.section-teachers__content-container-three {
+    width: 255px;
+    height: 180px;
+    background-image: url(..//img/teacher3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.section-teachers__content-container-four {
+    width: 255px;
+    height: 180px;
+    background-image: url(..//img/teacher4.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.section-teachers__name {
+    font-weight: bold;
+    font-size: var(--size-sub-desct-);
+    line-height: 150%;
+    color: var(--main-colr-);
+}
+
+.section-teachers__description {
+    font-weight: normal;
+    font-size: var(--size-desct-);
+    line-height: 150%;
+    color: #85859B;
+}

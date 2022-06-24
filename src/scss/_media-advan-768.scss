@@ -1,0 +1,26 @@
+@media (max-width: 768px) {    
+    .section-advantages__description_one {
+        width: 210px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .section-advantages__embeddedImge {
+        width: 211px;
+        height: 187px;
+        margin-right: 29px;
+        margin-top: 64px;
+        background-image: url(..//img/adva-768.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+
+    .section-advantages__description {
+        width: 450px;
+        font-weight: normal;
+        font-size: var(--size-desct-);
+        line-height: 150%;
+        color: var(--descript-col-);
+    }
+}
