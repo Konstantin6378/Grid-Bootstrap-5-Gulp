@@ -2,4 +2,14 @@
     .section-hero__pictor {
         display: none;
     }
+
+    .section-hero__button:hover {
+        background: cornflowerblue;
+        font-size: var(--size-desct-);
+    }
+    
+    .section-hero__button:active {
+        background: rgb(93, 145, 189);
+        font-size: var(--size-desct-);
+    }
 }
