@@ -112,6 +112,16 @@
         padding: 20.5px 53.5px;
     }
 
+    .section-hero__button:hover {
+        background: cornflowerblue;
+        font-size: var(--size-desct-);
+    }
+    
+    .section-hero__button:active {
+        background: rgb(93, 145, 189);
+        font-size: var(--size-desct-);
+    }
+
     .section-advantages__heading {
         width: 290px;
         height: 46px;
@@ -153,28 +163,28 @@
     }
 
     .section-teachers__content-container-one {
-        width: 290px;
+        width: 255px;
         height: 150px;
         background-image: url(..//img/teacher1-320.png);
         background-repeat: no-repeat;
     }
 
     .section-teachers__content-container-two {
-        width: 290px;
+        width: 255px;
         height: 150px;
         background-image: url(..//img/teacher2-320.png);
         background-repeat: no-repeat;
     }
 
     .section-teachers__content-container-three {
-        width: 290px;
+        width: 255px;
         height: 150px;
         background-image: url(..//img/teacher3-320.png);
         background-repeat: no-repeat;
     }
 
     .section-teachers__content-container-four {
-        width: 290px;
+        width: 255px;
         height: 150px;
         background-image: url(..//img/teacher4-320.png);
         background-repeat: no-repeat;
@@ -188,14 +198,9 @@
     }
 
     .section-teachers__description {
-        // width: 290px;
         font-size: var(--size-desct-);
         line-height: 150%;
 
-    }
-
-    .colum-cuorses {
-        width: 100%;
     }
 
     .section-cuorses-heading {

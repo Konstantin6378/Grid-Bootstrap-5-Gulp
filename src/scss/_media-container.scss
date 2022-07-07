@@ -1,6 +1,6 @@
 @media (max-width: 1290px) {
     .container {
-        padding-left: 39px;
+        padding-left: 25px;
         padding-right: 0;
     }
 
@@ -27,6 +27,12 @@
     .section-teachers-row {
         overflow-y: hidden;
         overflow-x: hidden;
+        justify-content: center;
+        gap: 20%;
+    }
+
+    .section-cuorses-row {
+        justify-content: center;
     }
 
     .colum-cuorses {
@@ -61,6 +67,12 @@
     .section-teachers-row {
         overflow-y: hidden;
         overflow-x: hidden;
+        justify-content: center;
+        gap: 4%;
+    }
+
+    .section-cuorses-row {
+        gap: 4%;
     }
 
     .colum-cuorses {
@@ -77,13 +89,7 @@
     .small-container-header {
         width: 700px;
     }
-
-    .header-logo {
-        justify-content: center;
-    }
 }
-
-
 
 @media (max-width: 576px) {
     .container {
@@ -102,6 +108,7 @@
     .section-teachers-row {
         overflow-y: hidden;
         overflow-x: hidden;
+        justify-content: center;
     }
 
     .section-courses-content__container {
@@ -112,14 +119,17 @@
         padding-left: 20px;
     }
 
+    .section-cuorses-row {
+        justify-content: center;
+    }
+
     .colum-cuorses {
-        width: 240px;
+        width: 330px;
         min-height: 653px;
         margin-right: 15px;
     }
 
     .section-cuorses-content__description {
-        // width: 180px;
         min-height: 280px;
     }
 }
